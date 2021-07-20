@@ -20,22 +20,6 @@ body {
 @page {
 	margin : 0px 0px 0px 0pt;
 }
-p.MLP-dopis-bez1radku {
-	color:#231f20;
-	font-family:Cambria, serif;
-	font-size:1em;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	line-height:1.208;
-	margin-bottom:0pt;
-	margin-left:14pt;
-	margin-right:14pt;
-	margin-top:0pt;
-	text-align:justify;
-	text-decoration:none;
-	text-indent:0pt;
-}
 p.MLP-text-bez1radku {
 	color:#231f20;
 	font-family:Cambria, serif;
@@ -48,7 +32,7 @@ p.MLP-text-bez1radku {
 	margin-left:0pt;
 	margin-right:0pt;
 	margin-top:0pt;
-	text-align:justify;
+	text-align:left;
 	text-decoration:none;
 	text-indent:0pt;
 }
@@ -136,89 +120,9 @@ p.MLP-text {
 	margin-left:0pt;
 	margin-right:0pt;
 	margin-top:0pt;
-	text-align:justify;
+	text-align:left;
 	text-decoration:none;
 	text-indent:14pt;
-}
-p.MLP-prima-rec {
-	color:#231f20;
-	font-family:Cambria, serif;
-	font-size:1em;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	line-height:1.208;
-	margin-bottom:12pt;
-	margin-left:28pt;
-	margin-right:0pt;
-	margin-top:0pt;
-	text-align:justify;
-	text-decoration:none;
-	text-indent:-28pt;
-}
-p.MLP-prima-rec-dalsi-odstavce-6b-za {
-	color:#231f20;
-	font-family:Cambria, serif;
-	font-size:1em;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	line-height:1.208;
-	margin-bottom:12pt;
-	margin-left:28pt;
-	margin-right:0pt;
-	margin-top:0pt;
-	text-align:justify;
-	text-decoration:none;
-	text-indent:0pt;
-}
-p.MLP-scenicke-poznamky {
-	color:#231f20;
-	font-family:Cambria, serif;
-	font-size:1em;
-	font-style:italic;
-	font-variant:normal;
-	font-weight:normal;
-	line-height:1.208;
-	margin-bottom:12pt;
-	margin-left:0pt;
-	margin-right:0pt;
-	margin-top:0pt;
-	text-align:justify;
-	text-decoration:none;
-	text-indent:0pt;
-}
-p.MLP-text--12-12 {
-	color:#231f20;
-	font-family:Cambria, serif;
-	font-size:1em;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	line-height:1.208;
-	margin-bottom:14pt;
-	margin-left:0pt;
-	margin-right:0pt;
-	margin-top:14pt;
-	text-align:justify;
-	text-decoration:none;
-	text-indent:14pt;
-}
-p.MLP-text-bez1radku--I---0-12 {
-	color:#231f20;
-	font-family:Cambria, serif;
-	font-size:1em;
-	font-style:italic;
-	font-variant:normal;
-	font-weight:normal;
-	line-height:1.208;
-	margin-bottom:12pt;
-	margin-left:0pt;
-	margin-right:0pt;
-	margin-top:0pt;
-	text-align:justify;
-	text-decoration:none;
-	text-indent:0pt;
 }
 p.MLP-text-bez1radku--12-0 {
 	color:#231f20;
@@ -232,43 +136,9 @@ p.MLP-text-bez1radku--12-0 {
 	margin-left:0pt;
 	margin-right:0pt;
 	margin-top:12pt;
-	text-align:justify;
+	text-align:left;
 	text-decoration:none;
 	text-indent:0pt;
-}
-p.MLP-text-bez1radku--B {
-	color:#231f20;
-	font-family:Cambria, serif;
-	font-size:1em;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:bold;
-	line-height:1.208;
-	margin-bottom:0pt;
-	margin-left:0pt;
-	margin-right:0pt;
-	margin-top:0pt;
-	text-align:justify;
-	text-decoration:none;
-	text-indent:0pt;
-}
-p.MLP-text-doprava--B {
-	-epub-hyphens:none;
-	-webkit-hyphens:none;
-	color:#231f20;
-	font-family:Cambria, serif;
-	font-size:1em;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:bold;
-	line-height:1.208;
-	margin-bottom:0pt;
-	margin-left:0pt;
-	margin-right:0pt;
-	margin-top:0pt;
-	text-align:right;
-	text-decoration:none;
-	text-indent:14pt;
 }
 p.MLP-tiraz-autor-a-nazev {
 	-epub-hyphens:none;
@@ -343,24 +213,6 @@ p.MLP-uroven2-kapitola {
 	text-decoration:none;
 	text-indent:0pt;
 }
-p.MLP-uroven3-nadpis {
-	-epub-hyphens:none;
-	-webkit-hyphens:none;
-	color:#231f20;
-	font-family:Cambria, serif;
-	font-size:1.167em;
-	font-style:italic;
-	font-variant:normal;
-	font-weight:bold;
-	line-height:1.036;
-	margin-bottom:12pt;
-	margin-left:0pt;
-	margin-right:0pt;
-	margin-top:24pt;
-	text-align:left;
-	text-decoration:none;
-	text-indent:0pt;
-}
 p.MLP-venovani {
 	-epub-hyphens:none;
 	-webkit-hyphens:none;
@@ -379,24 +231,6 @@ p.MLP-venovani {
 	text-decoration:none;
 	text-indent:0pt;
 }
-p.MLP-verse-drama {
-	-epub-hyphens:none;
-	-webkit-hyphens:none;
-	color:#231f20;
-	font-family:Cambria, serif;
-	font-size:1em;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	line-height:1.208;
-	margin-bottom:12pt;
-	margin-left:28pt;
-	margin-right:0pt;
-	margin-top:0pt;
-	text-align:left;
-	text-decoration:none;
-	text-indent:0pt;
-}
 p.MLP-text-bez1radku--0-12 {
 	color:#231f20;
 	font-family:Cambria, serif;
@@ -409,42 +243,6 @@ p.MLP-text-bez1radku--0-12 {
 	margin-left:0pt;
 	margin-right:0pt;
 	margin-top:0pt;
-	text-align:justify;
-	text-decoration:none;
-	text-indent:0pt;
-}
-p.MLP-verse--0-12 {
-	-epub-hyphens:none;
-	-webkit-hyphens:none;
-	color:#231f20;
-	font-family:Cambria, serif;
-	font-size:1em;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	line-height:1.208;
-	margin-bottom:12pt;
-	margin-left:43pt;
-	margin-right:43pt;
-	margin-top:0pt;
-	text-align:left;
-	text-decoration:none;
-	text-indent:0pt;
-}
-p.MLP-verse--12-12 {
-	-epub-hyphens:none;
-	-webkit-hyphens:none;
-	color:#231f20;
-	font-family:Cambria, serif;
-	font-size:1em;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:normal;
-	line-height:1.208;
-	margin-bottom:12pt;
-	margin-left:43pt;
-	margin-right:43pt;
-	margin-top:12pt;
 	text-align:left;
 	text-decoration:none;
 	text-indent:0pt;
@@ -461,7 +259,7 @@ p.MLP-citacni-str-rozdeleni {
 	margin-left:0pt;
 	margin-right:0pt;
 	margin-top:0pt;
-	text-align:justify;
+	text-align:left;
 	text-decoration:none;
 	text-indent:0pt;
 }
@@ -481,24 +279,6 @@ p.MLP-obrazky {
 	text-decoration:none;
 	text-indent:0pt;
 }
-p.MLP-UROVEN3-NADPIS-I {
-	-epub-hyphens:none;
-	-webkit-hyphens:none;
-	color:#231f20;
-	font-family:Cambria, serif;
-	font-size:1.167em;
-	font-style:italic;
-	font-variant:normal;
-	font-weight:bold;
-	line-height:1.036;
-	margin-bottom:12pt;
-	margin-left:0pt;
-	margin-right:0pt;
-	margin-top:0pt;
-	text-align:left;
-	text-decoration:none;
-	text-indent:0pt;
-}
 span.MLP-licence-hypertext {
 	color:#25408f;
 	font-family:Cambria, serif;
@@ -507,20 +287,6 @@ span.MLP-licence-hypertext {
 	font-variant:normal;
 	font-weight:normal;
 	text-decoration:underline;
-}
-span.MLP-znak-kurziva-11b {
-	color:#231f20;
-	font-family:Cambria, serif;
-	font-size:1em;
-	font-style:italic;
-	font-weight:normal;
-}
-span.MLP-znak-tucne-11b {
-	color:#231f20;
-	font-family:Cambria, serif;
-	font-size:1em;
-	font-style:normal;
-	font-weight:bold;
 }
 span.Hyperlink {
 	color:#3953a4;
@@ -531,16 +297,18 @@ span.Hyperlink {
 	text-decoration:underline;
 }
 p.para-style-override-1 {
-	break-after:page;
+	-epub-line-break:normal;
 }
 p.para-style-override-2 {
-	font-style:italic;
-	font-weight:normal;
+	break-after:page;
 }
 p.para-style-override-3 {
 	margin-bottom:28pt;
 }
 span.char-style-override-1 {
+	font-variant:small-caps;
+}
+span.char-style-override-2 {
 	font-size:1em;
 }
 img.frame-1 {
