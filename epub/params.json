@@ -10,9 +10,9 @@
       "languageCode": "cs"
     },
     "elements": {
-      "title": "MLP-titulka-nazev \nMLP-uroven2-kapitola ",
-      "subtitle": "MLP-titulka-autor ",
-      "h2": "",
+      "title": "MLP-titulka-nazev",
+      "subtitle": "MLP-titulka-autor",
+      "h2": "MLP-uroven2-kapitola",
       "h3": "",
       "h4": "",
       "hr": "",
