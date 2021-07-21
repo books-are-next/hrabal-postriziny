@@ -82,7 +82,7 @@
       {
         "filename": "postriziny_006.md",
         "xhtml": "postriziny_006.xhtml",
-        "title": "",
+        "title": "1. kapitola",
         "id": 5,
         "role": "chapter",
         "numberedChildren": false,
@@ -202,7 +202,7 @@
       {
         "filename": "postriziny_018.md",
         "xhtml": "postriziny_018.xhtml",
-        "title": "Bohumil HrabalPostřižiny",
+        "title": "Bohumil Hrabal Postřižiny",
         "id": 17,
         "role": "colophon",
         "numberedChildren": false,
@@ -258,7 +258,7 @@
         "xhtml": "postriziny_005.xhtml"
       },
       {
-        "title": "1. kap",
+        "title": "1",
         "filename": "postriziny_006.md",
         "xhtml": "postriziny_006.xhtml"
       },
