@@ -1,0 +1,429 @@
+{
+  "author": "Bohumil Hrabal",
+  "identifier": "hrabal-postriziny-0aa178b",
+  "isbn": "978-80-274-0473-5",
+  "languagecode": "cs",
+  "modified": "2021-07-20T09:35:43.960Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Postřižiny",
+  "revision": "0aa178b",
+  "generatedAt": {
+    "date": "Wed Jul 21 2021 12:00:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1626868854606
+  },
+  "documents": [
+    {
+      "title": "",
+      "file": "colophon.html",
+      "words": 43,
+      "chars": 298,
+      "ideas": 11,
+      "role": "colophon",
+      "order": null,
+      "next": "postriziny_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
+      "order": null,
+      "next": "postriziny_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "postriziny_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "postriziny_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "postriziny_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "postriziny_001.html",
+      "next": "postriziny_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "postriziny_003.html",
+      "words": 3,
+      "chars": 24,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "postriziny_002.html",
+      "next": "postriziny_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "postriziny_004.html",
+      "words": 89,
+      "chars": 591,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "postriziny_003.html",
+      "next": "postriziny_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "postriziny_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 4,
+      "prev": "postriziny_004.html",
+      "next": "postriziny_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "postriziny_006.html",
+      "words": 1947,
+      "chars": 11953,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 5,
+      "prev": "postriziny_005.html",
+      "next": "postriziny_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "postriziny_007.html",
+      "words": 2758,
+      "chars": 15947,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 6,
+      "prev": "postriziny_006.html",
+      "next": "postriziny_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "postriziny_008.html",
+      "words": 1164,
+      "chars": 6859,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 7,
+      "prev": "postriziny_007.html",
+      "next": "postriziny_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "postriziny_009.html",
+      "words": 2729,
+      "chars": 15572,
+      "ideas": 79,
+      "role": "chapter",
+      "order": 8,
+      "prev": "postriziny_008.html",
+      "next": "postriziny_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "postriziny_010.html",
+      "words": 2295,
+      "chars": 13367,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 9,
+      "prev": "postriziny_009.html",
+      "next": "postriziny_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "postriziny_011.html",
+      "words": 3189,
+      "chars": 18760,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 10,
+      "prev": "postriziny_010.html",
+      "next": "postriziny_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "postriziny_012.html",
+      "words": 3079,
+      "chars": 17649,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 11,
+      "prev": "postriziny_011.html",
+      "next": "postriziny_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "postriziny_013.html",
+      "words": 2062,
+      "chars": 11924,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 12,
+      "prev": "postriziny_012.html",
+      "next": "postriziny_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "postriziny_014.html",
+      "words": 4688,
+      "chars": 26443,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 13,
+      "prev": "postriziny_013.html",
+      "next": "postriziny_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "postriziny_015.html",
+      "words": 1352,
+      "chars": 7815,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 14,
+      "prev": "postriziny_014.html",
+      "next": "postriziny_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "postriziny_016.html",
+      "words": 1672,
+      "chars": 9902,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 15,
+      "prev": "postriziny_015.html",
+      "next": "postriziny_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "postriziny_017.html",
+      "words": 2285,
+      "chars": 13216,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 16,
+      "prev": "postriziny_016.html",
+      "next": "postriziny_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "postriziny_019.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 17,
+      "prev": "postriziny_017.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "postriziny_001.html",
+      "toc": []
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 29355,
+      "chars": 170320,
+      "ideas": 310
+    },
+    "chapters": {
+      "words": 29312,
+      "chars": 170022,
+      "ideas": 299
+    }
+  }
+}
