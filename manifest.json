@@ -1,15 +1,15 @@
 {
   "author": "Bohumil Hrabal",
-  "identifier": "hrabal-postriziny-6103188",
+  "identifier": "hrabal-postriziny-650ba92",
   "isbn": "978-80-274-0473-5",
   "languagecode": "cs",
   "modified": "2021-07-20T09:35:43.960Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Postřižiny",
-  "revision": "6103188",
+  "revision": "650ba92",
   "generatedAt": {
-    "date": "Wed Jul 21 2021 12:07:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1626869277313
+    "date": "Wed Jul 21 2021 12:27:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1626870450824
   },
   "documents": [
     {
@@ -20,7 +20,7 @@
       "ideas": 11,
       "role": "colophon",
       "order": null,
-      "next": "postriziny_001.html",
+      "next": "postriziny_006.html",
       "toc": [
         {
           "index": 0,
@@ -39,7 +39,7 @@
       "ideas": 0,
       "role": "index",
       "order": null,
-      "next": "postriziny_001.html",
+      "next": "postriziny_006.html",
       "toc": []
     },
     {
@@ -48,10 +48,9 @@
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "postriziny_002.html",
+      "role": "other",
+      "order": null,
+      "next": "postriziny_006.html",
       "toc": [
         {
           "index": 0,
@@ -68,10 +67,9 @@
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "postriziny_001.html",
-      "next": "postriziny_003.html",
+      "role": "other",
+      "order": null,
+      "next": "postriziny_006.html",
       "toc": [
         {
           "index": 0,
@@ -88,10 +86,9 @@
       "words": 3,
       "chars": 24,
       "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "postriziny_002.html",
-      "next": "postriziny_004.html",
+      "role": "other",
+      "order": null,
+      "next": "postriziny_006.html",
       "toc": [
         {
           "index": 0,
@@ -108,10 +105,9 @@
       "words": 89,
       "chars": 591,
       "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "postriziny_003.html",
-      "next": "postriziny_005.html",
+      "role": "other",
+      "order": null,
+      "next": "postriziny_006.html",
       "toc": [
         {
           "index": 0,
@@ -128,9 +124,8 @@
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "chapter",
-      "order": 4,
-      "prev": "postriziny_004.html",
+      "role": "other",
+      "order": null,
       "next": "postriziny_006.html",
       "toc": [
         {
@@ -149,8 +144,8 @@
       "chars": 11953,
       "ideas": 5,
       "role": "chapter",
-      "order": 5,
-      "prev": "postriziny_005.html",
+      "order": 0,
+      "prev": null,
       "next": "postriziny_007.html",
       "toc": [
         {
@@ -169,7 +164,7 @@
       "chars": 15947,
       "ideas": 16,
       "role": "chapter",
-      "order": 6,
+      "order": 1,
       "prev": "postriziny_006.html",
       "next": "postriziny_008.html",
       "toc": [
@@ -189,7 +184,7 @@
       "chars": 6859,
       "ideas": 19,
       "role": "chapter",
-      "order": 7,
+      "order": 2,
       "prev": "postriziny_007.html",
       "next": "postriziny_009.html",
       "toc": [
@@ -209,7 +204,7 @@
       "chars": 15572,
       "ideas": 79,
       "role": "chapter",
-      "order": 8,
+      "order": 3,
       "prev": "postriziny_008.html",
       "next": "postriziny_010.html",
       "toc": [
@@ -229,7 +224,7 @@
       "chars": 13367,
       "ideas": 6,
       "role": "chapter",
-      "order": 9,
+      "order": 4,
       "prev": "postriziny_009.html",
       "next": "postriziny_011.html",
       "toc": [
@@ -249,7 +244,7 @@
       "chars": 18760,
       "ideas": 62,
       "role": "chapter",
-      "order": 10,
+      "order": 5,
       "prev": "postriziny_010.html",
       "next": "postriziny_012.html",
       "toc": [
@@ -269,7 +264,7 @@
       "chars": 17649,
       "ideas": 2,
       "role": "chapter",
-      "order": 11,
+      "order": 6,
       "prev": "postriziny_011.html",
       "next": "postriziny_013.html",
       "toc": [
@@ -289,7 +284,7 @@
       "chars": 11924,
       "ideas": 34,
       "role": "chapter",
-      "order": 12,
+      "order": 7,
       "prev": "postriziny_012.html",
       "next": "postriziny_014.html",
       "toc": [
@@ -309,7 +304,7 @@
       "chars": 26443,
       "ideas": 46,
       "role": "chapter",
-      "order": 13,
+      "order": 8,
       "prev": "postriziny_013.html",
       "next": "postriziny_015.html",
       "toc": [
@@ -329,7 +324,7 @@
       "chars": 7815,
       "ideas": 4,
       "role": "chapter",
-      "order": 14,
+      "order": 9,
       "prev": "postriziny_014.html",
       "next": "postriziny_016.html",
       "toc": [
@@ -349,7 +344,7 @@
       "chars": 9902,
       "ideas": 2,
       "role": "chapter",
-      "order": 15,
+      "order": 10,
       "prev": "postriziny_015.html",
       "next": "postriziny_017.html",
       "toc": [
@@ -369,7 +364,7 @@
       "chars": 13216,
       "ideas": 15,
       "role": "chapter",
-      "order": 16,
+      "order": 11,
       "prev": "postriziny_016.html",
       "next": "postriziny_019.html",
       "toc": [
@@ -389,7 +384,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 17,
+      "order": 12,
       "prev": "postriziny_017.html",
       "next": null,
       "toc": [
@@ -410,7 +405,7 @@
       "ideas": 0,
       "role": "other",
       "order": null,
-      "next": "postriziny_001.html",
+      "next": "postriziny_006.html",
       "toc": []
     }
   ],
@@ -421,9 +416,9 @@
       "ideas": 310
     },
     "chapters": {
-      "words": 29312,
-      "chars": 170022,
-      "ideas": 299
+      "words": 29220,
+      "chars": 169407,
+      "ideas": 290
     }
   }
 }
