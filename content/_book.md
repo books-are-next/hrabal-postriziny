@@ -23,7 +23,6 @@ chapters:
   - postriziny_015.html
   - postriziny_016.html
   - postriziny_017.html
-  - postriziny_019.html
 static:
   - style
   - scripts
