@@ -11,11 +11,6 @@ meta:
   isbn: 978-80-274-0473-5
   languageCode: cs
 chapters:
-  - postriziny_001.html
-  - postriziny_002.html
-  - postriziny_003.html
-  - postriziny_004.html
-  - postriziny_005.html
   - postriziny_006.html
   - postriziny_007.html
   - postriziny_008.html
