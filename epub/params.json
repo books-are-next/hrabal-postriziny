@@ -44,7 +44,7 @@
         "xhtml": "postriziny_002.xhtml",
         "title": "",
         "id": 1,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
         "inToc": false,
         "children": []
@@ -54,7 +54,7 @@
         "xhtml": "postriziny_003.xhtml",
         "title": "Postřižiny",
         "id": 2,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
         "inToc": false,
         "children": []
@@ -64,7 +64,7 @@
         "xhtml": "postriziny_004.xhtml",
         "title": "Znění tohoto textu vychází z díla Postřižiny tak, jak bylo vydáno nakladatelstvím Mladá fronta v Praze v roce 2005. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.",
         "id": 3,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
         "inToc": false,
         "children": []
@@ -74,7 +74,7 @@
         "xhtml": "postriziny_005.xhtml",
         "title": "Paní Bovaryová jsem já— Gustav Flaubert",
         "id": 4,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
         "inToc": false,
         "children": []
@@ -82,7 +82,7 @@
       {
         "filename": "postriziny_006.md",
         "xhtml": "postriziny_006.xhtml",
-        "title": "1",
+        "title": "1. kapitola",
         "id": 5,
         "role": "chapter",
         "numberedChildren": false,
@@ -92,7 +92,7 @@
       {
         "filename": "postriziny_007.md",
         "xhtml": "postriziny_007.xhtml",
-        "title": "2",
+        "title": "2. kapitola",
         "id": 6,
         "role": "chapter",
         "numberedChildren": false,
@@ -102,7 +102,7 @@
       {
         "filename": "postriziny_008.md",
         "xhtml": "postriziny_008.xhtml",
-        "title": "3",
+        "title": "3. kapitola",
         "id": 7,
         "role": "chapter",
         "numberedChildren": false,
@@ -112,7 +112,7 @@
       {
         "filename": "postriziny_009.md",
         "xhtml": "postriziny_009.xhtml",
-        "title": "4",
+        "title": "4. kapitola",
         "id": 8,
         "role": "chapter",
         "numberedChildren": false,
@@ -122,7 +122,7 @@
       {
         "filename": "postriziny_010.md",
         "xhtml": "postriziny_010.xhtml",
-        "title": "5",
+        "title": "5. kapitola",
         "id": 9,
         "role": "chapter",
         "numberedChildren": false,
@@ -132,7 +132,7 @@
       {
         "filename": "postriziny_011.md",
         "xhtml": "postriziny_011.xhtml",
-        "title": "6",
+        "title": "6. kapitola",
         "id": 10,
         "role": "chapter",
         "numberedChildren": false,
@@ -142,7 +142,7 @@
       {
         "filename": "postriziny_012.md",
         "xhtml": "postriziny_012.xhtml",
-        "title": "7",
+        "title": "7. kapitola",
         "id": 11,
         "role": "chapter",
         "numberedChildren": false,
@@ -152,7 +152,7 @@
       {
         "filename": "postriziny_013.md",
         "xhtml": "postriziny_013.xhtml",
-        "title": "8",
+        "title": "8. kapitola",
         "id": 12,
         "role": "chapter",
         "numberedChildren": false,
@@ -162,7 +162,7 @@
       {
         "filename": "postriziny_014.md",
         "xhtml": "postriziny_014.xhtml",
-        "title": "9",
+        "title": "9. kapitola",
         "id": 13,
         "role": "chapter",
         "numberedChildren": false,
@@ -172,7 +172,7 @@
       {
         "filename": "postriziny_015.md",
         "xhtml": "postriziny_015.xhtml",
-        "title": "10",
+        "title": "10. kapitola",
         "id": 14,
         "role": "chapter",
         "numberedChildren": false,
@@ -182,7 +182,7 @@
       {
         "filename": "postriziny_016.md",
         "xhtml": "postriziny_016.xhtml",
-        "title": "11",
+        "title": "11. kapitola",
         "id": 15,
         "role": "chapter",
         "numberedChildren": false,
@@ -192,7 +192,7 @@
       {
         "filename": "postriziny_017.md",
         "xhtml": "postriziny_017.xhtml",
-        "title": "12",
+        "title": "12. kapitola",
         "id": 16,
         "role": "chapter",
         "numberedChildren": false,
@@ -214,7 +214,7 @@
         "xhtml": "postriziny_019.xhtml",
         "title": "",
         "id": 18,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
         "inToc": false,
         "children": []
