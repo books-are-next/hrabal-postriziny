@@ -1,15 +1,15 @@
 {
   "author": "Bohumil Hrabal",
-  "identifier": "hrabal-postriziny-e85b97c",
+  "identifier": "hrabal-postriziny-2596199",
   "isbn": "978-80-274-0473-5",
   "languagecode": "cs",
   "modified": "2021-07-20T09:35:43.960Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Postřižiny",
-  "revision": "e85b97c",
+  "revision": "2596199",
   "generatedAt": {
-    "date": "Thu Jul 22 2021 07:42:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1626939756277
+    "date": "Thu Jul 22 2021 07:47:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1626940072655
   },
   "documents": [
     {
@@ -178,11 +178,11 @@
       ]
     },
     {
-      "title": "",
+      "title": "kapitola",
       "file": "postriziny_008.html",
-      "words": 1164,
-      "chars": 6859,
-      "ideas": 19,
+      "words": 1165,
+      "chars": 6867,
+      "ideas": 20,
       "role": "chapter",
       "order": 2,
       "prev": "postriziny_007.html",
@@ -191,7 +191,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "",
+          "name": "kapitola",
           "id": "chunk1",
           "children": []
         }
@@ -410,14 +410,14 @@
   ],
   "totals": {
     "all": {
-      "words": 29385,
-      "chars": 170400,
-      "ideas": 340
+      "words": 29386,
+      "chars": 170408,
+      "ideas": 341
     },
     "chapters": {
-      "words": 29250,
-      "chars": 169487,
-      "ideas": 320
+      "words": 29251,
+      "chars": 169495,
+      "ideas": 321
     }
   }
 }
