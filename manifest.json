@@ -1,15 +1,15 @@
 {
   "author": "Bohumil Hrabal",
-  "identifier": "hrabal-postriziny-35df6a5",
+  "identifier": "hrabal-postriziny-2fa0a59",
   "isbn": "978-80-274-0473-5",
   "languagecode": "cs",
   "modified": "2021-07-20T09:35:43.960Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Postřižiny",
-  "revision": "35df6a5",
+  "revision": "2fa0a59",
   "generatedAt": {
-    "date": "Wed Aug 04 2021 12:55:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1628081712648
+    "date": "Fri Aug 13 2021 08:42:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1628844173792
   },
   "documents": [
     {
@@ -138,11 +138,11 @@
       ]
     },
     {
-      "title": "",
+      "title": "1.",
       "file": "postriziny_006.html",
-      "words": 1947,
-      "chars": 11953,
-      "ideas": 5,
+      "words": 1949,
+      "chars": 11952,
+      "ideas": 7,
       "role": "chapter",
       "order": 0,
       "prev": null,
@@ -158,11 +158,11 @@
       ]
     },
     {
-      "title": "2. kapitola",
+      "title": "2.",
       "file": "postriziny_007.html",
-      "words": 2761,
-      "chars": 15955,
-      "ideas": 19,
+      "words": 2760,
+      "chars": 15946,
+      "ideas": 18,
       "role": "chapter",
       "order": 1,
       "prev": "postriziny_006.html",
@@ -171,18 +171,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "kapitola",
+          "name": "",
           "id": "chunk1",
           "children": []
         }
       ]
     },
     {
-      "title": "kapitola",
+      "title": "3.",
       "file": "postriziny_008.html",
-      "words": 1165,
-      "chars": 6867,
-      "ideas": 20,
+      "words": 1166,
+      "chars": 6858,
+      "ideas": 21,
       "role": "chapter",
       "order": 2,
       "prev": "postriziny_007.html",
@@ -191,18 +191,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "kapitola",
+          "name": "",
           "id": "chunk1",
           "children": []
         }
       ]
     },
     {
-      "title": "4. kapitola",
+      "title": "4.",
       "file": "postriziny_009.html",
-      "words": 2732,
-      "chars": 15580,
-      "ideas": 82,
+      "words": 2731,
+      "chars": 15571,
+      "ideas": 81,
       "role": "chapter",
       "order": 3,
       "prev": "postriziny_008.html",
@@ -211,18 +211,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "kapitola",
+          "name": "",
           "id": "chunk1",
           "children": []
         }
       ]
     },
     {
-      "title": "5. kapitola",
+      "title": "5.",
       "file": "postriziny_010.html",
-      "words": 2298,
-      "chars": 13375,
-      "ideas": 9,
+      "words": 2297,
+      "chars": 13366,
+      "ideas": 8,
       "role": "chapter",
       "order": 4,
       "prev": "postriziny_009.html",
@@ -231,18 +231,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "kapitola",
+          "name": "",
           "id": "chunk1",
           "children": []
         }
       ]
     },
     {
-      "title": "6. kapitola",
+      "title": "6.",
       "file": "postriziny_011.html",
-      "words": 3192,
-      "chars": 18768,
-      "ideas": 65,
+      "words": 3191,
+      "chars": 18759,
+      "ideas": 64,
       "role": "chapter",
       "order": 5,
       "prev": "postriziny_010.html",
@@ -251,18 +251,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "kapitola",
+          "name": "",
           "id": "chunk1",
           "children": []
         }
       ]
     },
     {
-      "title": "7. kapitola",
+      "title": "7.",
       "file": "postriziny_012.html",
-      "words": 3082,
-      "chars": 17657,
-      "ideas": 5,
+      "words": 3,
+      "chars": 0,
+      "ideas": 3,
       "role": "chapter",
       "order": 6,
       "prev": "postriziny_011.html",
@@ -271,18 +271,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "kapitola",
+          "name": "",
           "id": "chunk1",
           "children": []
         }
       ]
     },
     {
-      "title": "8. kapitola",
+      "title": "8.",
       "file": "postriziny_013.html",
-      "words": 2065,
-      "chars": 11932,
-      "ideas": 37,
+      "words": 2064,
+      "chars": 11923,
+      "ideas": 36,
       "role": "chapter",
       "order": 7,
       "prev": "postriziny_012.html",
@@ -291,18 +291,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "kapitola",
+          "name": "",
           "id": "chunk1",
           "children": []
         }
       ]
     },
     {
-      "title": "9. kapitola",
+      "title": "9.",
       "file": "postriziny_014.html",
-      "words": 4691,
-      "chars": 26451,
-      "ideas": 49,
+      "words": 4690,
+      "chars": 26442,
+      "ideas": 48,
       "role": "chapter",
       "order": 8,
       "prev": "postriziny_013.html",
@@ -311,18 +311,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "kapitola",
+          "name": "",
           "id": "chunk1",
           "children": []
         }
       ]
     },
     {
-      "title": "10. kapitola",
+      "title": "10.",
       "file": "postriziny_015.html",
-      "words": 1355,
-      "chars": 7823,
-      "ideas": 7,
+      "words": 1354,
+      "chars": 7813,
+      "ideas": 6,
       "role": "chapter",
       "order": 9,
       "prev": "postriziny_014.html",
@@ -331,18 +331,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "kapitola",
+          "name": "",
           "id": "chunk1",
           "children": []
         }
       ]
     },
     {
-      "title": "11. kapitola",
+      "title": "11.",
       "file": "postriziny_016.html",
-      "words": 1675,
-      "chars": 9910,
-      "ideas": 5,
+      "words": 3,
+      "chars": 0,
+      "ideas": 3,
       "role": "chapter",
       "order": 10,
       "prev": "postriziny_015.html",
@@ -351,18 +351,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "kapitola",
+          "name": "",
           "id": "chunk1",
           "children": []
         }
       ]
     },
     {
-      "title": "12. kapitola",
+      "title": "12.",
       "file": "postriziny_017.html",
-      "words": 2288,
-      "chars": 13224,
-      "ideas": 18,
+      "words": 2287,
+      "chars": 13214,
+      "ideas": 17,
       "role": "chapter",
       "order": 11,
       "prev": "postriziny_016.html",
@@ -371,7 +371,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "kapitola",
+          "name": "",
           "id": "chunk1",
           "children": []
         }
@@ -410,14 +410,14 @@
   ],
   "totals": {
     "all": {
-      "words": 29386,
-      "chars": 170408,
-      "ideas": 341
+      "words": 24630,
+      "chars": 142757,
+      "ideas": 332
     },
     "chapters": {
-      "words": 29251,
-      "chars": 169495,
-      "ideas": 321
+      "words": 24495,
+      "chars": 141844,
+      "ideas": 312
     }
   }
 }
