@@ -1,9 +1,8 @@
 ---
-title: '2. kapitola'
+title: '2.'
 
 ---
 
-2
 
 Můj portrét jsou ale také čtyři prasata, pivovarská prasata, krmená mlátem a bramborami, a v létě, když zrály řípy, chodila jsem na chrást a ten chrást posekala a nalila na něj kvásek a staré pivo a prasata spala dvacet hodin a přirůstala denně až o jeden kilogram, to mne ta moje prasátka slyšela, jak jdu dojit kozy, a už řvala radostí, protože nevěděla, že dvě z nich prodám na šunky a dvě nechám porazit na domácí zabíjačku. Jak jsem dojila kozy, tak prasátka křičela nadšením, protože věděla, že všechno mléko, co nadojím, rovnou jim vyleju. Pan Cicvárek se jen podíval na prasata, hned řekl, kolik ta prasata váží, a vždycky to bylo tak, pak ta dvě prasátka bral do náruče a hodil je do takového rakošánku, řeznické bryčky, zatáhl nad nimi síť a řekl: „Bránějí se ty potvůrky jako moje stará, když jsem jí zamlada dával první hubičku!“
 

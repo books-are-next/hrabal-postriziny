@@ -1,9 +1,8 @@
 ---
-title: '8. kapitola'
+title: '8.'
 
 ---
 
-8
 
 Strýc Pepin pracoval v pivovaře už tři týdny; vzali jej bednáři a od té doby bylo v pivovaře veselo. Když jsem mohla, vzala jsem kbelíky a šla jsem přes pivovarský dvůr pro mláto, pan podstarší se na mne zadíval zkoumavě, zdali má přinést tuplák piva, přikývla jsem, a zatímco jsem nabírala z vozu mláto, bednáři drželi dopolední svačinu, strýc Pepin ležel na zádech a na prsou měl prázdný soudek štěněte a bednářští se mohli potrhat smíchy, kuckali drobečky z mazaných chlebů, když strýc Pepin zpíval: „Do re mi fa sol la si do!“
 

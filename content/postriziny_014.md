@@ -1,9 +1,8 @@
 ---
-title: '9. kapitola'
+title: '9.'
 
 ---
 
-9
 
 Ta móda začala v hotelu Na Knížecí. Vojáci přinesli nějaké přístroje, ředitelé škol shromáždili už v šest hodin ráno školní mládež a přiřadily se všechny korporace, a tak jak postupoval čas, do velikého sálu vcházela fronta zvědavců, vojáci každému občanovi dali na ucho takové sluchátko jako u telefonu a v tom sluchátku se ozvalo škručení a pak se ozvala dechová hudba, která hrála pořád Kolíne, Kolíne, ale ta hudba nebyla ani trochu krásná, jako by ji hráli na dávno obehrané gramofonové desce, avšak ta hudba se hrála v Praze a vzduchem, bez drátu, se navlékala jak nit do ouška sluchátka až v našem městečku. A každý, kdo to uslyšel, vycházel zadním vchodem hotelu a byl naprosto oslněn tím slyšením, tím, že není drát, který by přiváděl tu Kmochovu kolínskou kapelu, a každý tak kráčel podle fronty občanů, fronty, která se táhla přes celé náměstí až na hlavní třídu, až dolů k pekařství pana Svobody, a kdo ještě neslyšel to rádio, tak když viděl, s jakým blaženým a udiveným výrazem vycházejí ti, kterým už byl dopřán ten revoluční vynález, všichni se těšili čím dál víc, jak se blížili v průvodu, který vcházel do dveří hotelu Na Knížecí.
 
