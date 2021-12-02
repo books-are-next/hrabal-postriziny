@@ -1,8 +1,6 @@
 ---
-title: ''
-
+title: Postřižiny
+subtitle: Bohumil Hrabal
 ---
 
-Postřižiny
 
-Bohumil Hrabal

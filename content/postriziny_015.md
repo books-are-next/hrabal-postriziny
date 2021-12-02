@@ -1,8 +1,9 @@
 ---
-title: '10.'
-
+title: ''
+subtitle: ''
 ---
 
+## 10
 
 Teď mě měl Francin takovou, jakou si mě přál mít, slušnou ženu sedící doma, ženskou, o které věděl, kde je dnes a kde bude zítra, kde by si ji přál mít navždycky, ne moc nemocnou, ale nemocnou jakoby, ženu, která by se dobelhala ke kamnům, k židli, ke stolu, hlavně ale ženu, která by mu byla na obtíž, protože vrchol manželského soužití viděl Francin v tom, že jsem mu vděčná, že mi ráno připraví snídani, v poledne na motocyklu sjede pro oběd do restaurace, hlavně ale aby mi ukázal, jak mne má rád, jak o mne s radostí může pečovat, a tak nějak, jak se stará on o mne, že bych se měla starat i já o něho, to byl Francinův sen, abych každý rok dostala angíny a chřipky, abych občas měla i zápal plic. To vždycky byl radostí bez sebe, nikdo nikdy se nemohl starat o člověka tak, jako se staral Francin, to bylo jeho náboženství, nebe na zemi, když mne mohl balit do prostěradel namočených do studené vody, kdy s prostěradlem obíhal kolem mne a tak je na mne namotával, jako by mne zaživa balzamoval, ale potom mne vzal do náruče a opatrně mne ukládal do postele, jako holčičky ukládají panenku. A každou hodinu odbíhal z kanceláře, aby mi měřil teplotu, každé dvě hodiny mi měnil obklady a v duchu se jistě modlil, ne že by si to přál, ale kdyby jinak Osud nedal, tak abych už nevstala, abych byla jeho miminko, které ho potřebuje tak, jako on potřebuje mne. A když jsem byla v rekonvalescenci a začala jsem chodit, když jsem se začínala zase od srdce smát a zase ta neslušná ženská začala ve mně vítězit, Francin zase se stahoval do sebe a zase snil o tom, že jsem ochrnutá a on mne vozí na kolečkové židli, večer mi předčítá Národní politiku nebo nějaký román, a tak by se vyrovnal ten jeho komplex z mé dravé zdravosti, která milovala náhodu a nepředvídanou událost a podivuhodné setkání, zatímco Francin miloval pořádek a řád, opakování mu ukazovalo správnou cestu, všechno, co se dalo předvídat a zařídit, to všechno byl Francinův život, svět, ve který věřil a bez kterého nedovedl žít.
 

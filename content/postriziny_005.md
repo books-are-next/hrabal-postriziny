@@ -1,7 +1,7 @@
 ---
 title: ''
-
+subtitle: ''
 ---
 
-Paní Bovaryová jsem já  
-— Gustav Flaubert
+_Paní Bovaryová jsem já  
+— _Gustav Flaubert__

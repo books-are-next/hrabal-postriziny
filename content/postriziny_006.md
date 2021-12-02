@@ -1,8 +1,9 @@
 ---
-title: '1.'
-
+title: ''
+subtitle: ''
 ---
 
+## 1
 
 Mám ráda těch několik minut před sedmou hodinou večerní, kdy hadříky a zmačkanou Národní politikou čistím skleněné cylindry lamp, sirkou odroluji čerň ohořelých knotů, nasazuji znovu mosazné kloboučky, a přesně v sedm hodin nastává ta krásná chvíle, kdy přestávají pracovat pivovarské stroje a dynamo, tlačící elektrický proud všude tam, kde svítí žárovky, to dynamo začne snižovat obrátky, a tak jak elektřina slábne, slábne i světlo žárovek, z bílého světla zvolna je světlo růžové a z růžového světla světlo šedivé, cezené přes flór a organtýn, až wolframová vlákna ukazují u stropu červené rachitické prstíčky, červený houslový klíč. Zapaluji pak knot, nasazuji cylindr, vytahuji žlutý jazýček, nasazuji mléčné stínítko, zdobené porcelánovými růžemi. Ráda mám těch několik minut před sedmou hodinou večerní, dívám se ráda těch několik minut vzhůru, kdy světlo odchází ze žárovky jako krev z podříznutého kohouta, ráda se dívám na ten blednoucí podpis elektrického proudu a trnu, až přijde čas, kdy do pivovaru bude zaveden městský proud a všechny pivovarské lampy, všechny větrné lampy v maštalích, lampy s kulatými zrcátky, všechny ty bachraté lampy s kulatými knoty se jednoho dne nezapálí, nikdo už nebude o jejich světlo stát, protože celý ten ceremoniál bude nahrazen vypínačem podobným kohoutku od vodovodu, který nahradil krásné pumpy. Mám ráda ty moje hořící lampy, v jichž světle odnáším na stůl talíře a příbory, rozvírají se noviny nebo knihy, mám ráda lampami ozářené ruce jen tak spočívající na ubrusu, lidské uťaté ruce, v jichž rukopisu vrásek lze vyčíst povahu člověka, kterému ty ruce patří, mám ráda přenosné petrolejové lampičky, se kterými za večera chodím vstříc návštěvám a svítím jim do tváře a na cestu, mám ráda lampy, v jichž světle háčkuji záclony a hluboce sním, lampy, které násilným dechem zhasnuty vydávají čpavou vůni, která výčitkou zaplaví tmavý pokoj. Abych tak našla sílu, a až přijde do pivovaru elektřina, abych alespoň jednou týdně jeden večer si zapálila lampy a naslouchala melodickému syčení žlutého světla, které vrhá hluboké stíny a nutí k opatrnosti a k snění.
 

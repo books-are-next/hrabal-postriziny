@@ -1,8 +1,9 @@
 ---
-title: '6.'
-
+title: ''
+subtitle: ''
 ---
 
+## 6
 
 Strýc Pepin nejraději sedával za humny, ukryt z jedné strany ovocným sadem, z druhé strany komínem, u kterého byly vyrovnané dubové dýhy všech velikostí, dýhy, ze kterých se v bednárně dělaly sudy, podle potřeby štěňata, čtvrthektolitry, půlky a hektolitry a dvouhektolitry anobrž tupláky a pak veliké padesátihektolitrové a stohektolitrové sudy, ve kterých ve spilkách a sklepích byly uloženy celé várky piva, sudy, ve kterých zrálo pivo na pivo obyčejné anebo ležák. Tady strýc Pepin, když nemohl ševcovat, tady si našel klacek a chodil s ním podle humen a cvičil parádní marše, souboje na bodáky. Aby tolik nekřičel, prosil mne Francin, abych na strýce dohlédla.
 

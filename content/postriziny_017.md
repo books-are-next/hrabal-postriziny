@@ -1,8 +1,9 @@
 ---
-title: '12.'
-
+title: ''
+subtitle: ''
 ---
 
+## 12
 
 Podívala jsem se na hodinky, to byl čas, kdy Boďa Červinka končí svoji malou rundu, jistě už koupil výhodně zeleninu a z radosti nad takovou koupí se stavil nejdřív na náměstí U Svobodů, kde si dal dvě decičky vermutu a pět deka uherského salámu, pak se stavil v Grandu, kde si jistě dal malý gulášek a tři plzeňská piva, pak, aby začal uzavírat tu svoji malou rundu, stavil se v drogerii u Mikolášky, a setrvávaje v přátelském hovoru, vypil tři číšky koňaku, avšak ono je i možné, že Boďa měl takovou radost, že vydělal na výhodné koupi zeleniny dvě koruny, že pokračoval v takzvané velké rundě, to jest, ještě se stavil Na Knížecí na černou kávu s originál jamajským rumem, aby se pak zastavil na stojačku u speciálního výčepu firmy Louis Wantoch a vypil kalíšek griotky jako radostnou tečku za tak výhodným nákupem karfiolu a zeleniny do polévky.
 
