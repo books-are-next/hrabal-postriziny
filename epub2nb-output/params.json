@@ -1,0 +1,412 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Postřižiny",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Bohumil Hrabal",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-07-20T09:35:43.960Z",
+      "isbn": "978-80-274-0473-5",
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
+    },
+    "elements": {
+      "title": "MLP-titulka-nazev",
+      "subtitle": "MLP-titulka-autor",
+      "h2": "MLP-uroven2-kapitola",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "invisibleHr": "",
+      "invisibleHrBefore": "",
+      "invisibleHrAfter": "",
+      "blockquote": "",
+      "figure": "",
+      "em": "MLP-venovani \nchar-style-override-1 ",
+      "strong": "",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "filename": "postriziny_001.md",
+        "xhtml": "postriziny_001.xhtml",
+        "title": "",
+        "id": 0,
+        "role": "cover",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "postriziny_002.md",
+        "xhtml": "postriziny_002.xhtml",
+        "title": "",
+        "id": 1,
+        "role": "break",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": []
+      },
+      {
+        "filename": "postriziny_003.md",
+        "xhtml": "postriziny_003.xhtml",
+        "title": "Postřižiny",
+        "id": 2,
+        "role": "break",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": []
+      },
+      {
+        "filename": "postriziny_004.md",
+        "xhtml": "postriziny_004.xhtml",
+        "title": "Znění tohoto textu vychází z díla Postřižiny tak, jak bylo vydáno nakladatelstvím Mladá fronta v Praze v roce 2005. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.",
+        "id": 3,
+        "role": "break",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": []
+      },
+      {
+        "filename": "postriziny_005.md",
+        "xhtml": "postriziny_005.xhtml",
+        "title": "Paní Bovaryová jsem já— Gustav Flaubert",
+        "id": 4,
+        "role": "break",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": []
+      },
+      {
+        "filename": "postriziny_006.md",
+        "xhtml": "postriziny_006.xhtml",
+        "title": "1. kapitola",
+        "id": 5,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "postriziny_007.md",
+        "xhtml": "postriziny_007.xhtml",
+        "title": "2. kapitola",
+        "id": 6,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "postriziny_008.md",
+        "xhtml": "postriziny_008.xhtml",
+        "title": "3",
+        "id": 7,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "postriziny_009.md",
+        "xhtml": "postriziny_009.xhtml",
+        "title": "4. kapitola",
+        "id": 8,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "postriziny_010.md",
+        "xhtml": "postriziny_010.xhtml",
+        "title": "5. kapitola",
+        "id": 9,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "postriziny_011.md",
+        "xhtml": "postriziny_011.xhtml",
+        "title": "6. kapitola",
+        "id": 10,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "postriziny_012.md",
+        "xhtml": "postriziny_012.xhtml",
+        "title": "7. kapitola",
+        "id": 11,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "postriziny_013.md",
+        "xhtml": "postriziny_013.xhtml",
+        "title": "8. kapitola",
+        "id": 12,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "postriziny_014.md",
+        "xhtml": "postriziny_014.xhtml",
+        "title": "9. kapitola",
+        "id": 13,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "postriziny_015.md",
+        "xhtml": "postriziny_015.xhtml",
+        "title": "10. kapitola",
+        "id": 14,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "postriziny_016.md",
+        "xhtml": "postriziny_016.xhtml",
+        "title": "11. kapitola",
+        "id": 15,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "postriziny_017.md",
+        "xhtml": "postriziny_017.xhtml",
+        "title": "12. kapitola",
+        "id": 16,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "postriziny_018.md",
+        "xhtml": "postriziny_018.xhtml",
+        "title": "Bohumil Hrabal Postřižiny",
+        "id": 17,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "postriziny_019.md",
+        "xhtml": "postriziny_019.xhtml",
+        "title": "",
+        "id": 18,
+        "role": "break",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": []
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Postřižiny",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Bohumil Hrabal",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-12-02T10:30:41.851Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "postriziny_001.md",
+        "xhtml": "postriziny_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "postriziny_002.md",
+        "xhtml": "postriziny_002.xhtml"
+      },
+      {
+        "titleSuggest": "Postřižiny",
+        "subtitleSuggest": "Bohumil Hrabal",
+        "filename": "postriziny_003.md",
+        "xhtml": "postriziny_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "postriziny_004.md",
+        "xhtml": "postriziny_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "postriziny_005.md",
+        "xhtml": "postriziny_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "postriziny_006.md",
+        "xhtml": "postriziny_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "postriziny_007.md",
+        "xhtml": "postriziny_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "postriziny_008.md",
+        "xhtml": "postriziny_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "postriziny_009.md",
+        "xhtml": "postriziny_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "postriziny_010.md",
+        "xhtml": "postriziny_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "postriziny_011.md",
+        "xhtml": "postriziny_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "postriziny_012.md",
+        "xhtml": "postriziny_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "postriziny_013.md",
+        "xhtml": "postriziny_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "postriziny_014.md",
+        "xhtml": "postriziny_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "postriziny_015.md",
+        "xhtml": "postriziny_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "postriziny_016.md",
+        "xhtml": "postriziny_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "postriziny_017.md",
+        "xhtml": "postriziny_017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "postriziny_018.md",
+        "xhtml": "postriziny_018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "postriziny_019.md",
+        "xhtml": "postriziny_019.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/postriziny_idstyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/kocka_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/obalka_postriziny_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-text",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-uroven2-kapitola",
+      "MLP-venovani",
+      "char-style-override-1",
+      "char-style-override-2",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "hrabal-postriziny"
+    },
+    "generatedAt": 1638441042290
+  }
+}
