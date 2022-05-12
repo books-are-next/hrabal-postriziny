@@ -1,6 +1,7 @@
 ---
 title: ''
 subtitle: ''
+contentType: prose
 ---
 
 Znění tohoto textu vychází z díla [Postřižiny](https://search.mlp.cz/cz/titul/postriziny/2647155/) tak, jak bylo vydáno nakladatelstvím Mladá fronta v Praze v roce 2005. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.

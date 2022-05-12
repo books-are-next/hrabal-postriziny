@@ -46,7 +46,7 @@
         "xhtml": "postriziny_002.xhtml",
         "title": "",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": []
@@ -229,7 +229,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Bohumil Hrabal",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T10:30:41.851Z"
+      "modified": "2020-02-12T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -407,6 +407,6 @@
       "user": "books-are-next",
       "repo": "hrabal-postriziny"
     },
-    "generatedAt": 1638441042290
+    "generatedAt": 1652351285955
   }
 }

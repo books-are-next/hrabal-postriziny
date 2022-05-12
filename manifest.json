@@ -1,22 +1,43 @@
 {
-  "author": "Bohumil Hrabal",
-  "edition": "beletrie",
-  "identifier": "hrabal-postriziny-3ccd512",
-  "isbn": "978-80-274-0473-5",
-  "languagecode": "cs",
-  "modified": "2021-07-20T09:35:43.960Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Postřižiny",
-  "revision": "3ccd512",
+  "author": "Bohumil Hrabal",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hrabal-postriziny-7b7b02f",
+  "revision": "7b7b02f",
+  "readingOrder": [
+    "promo.html",
+    "postriziny_003.html",
+    "postriziny_004.html",
+    "postriziny_005.html",
+    "postriziny_006.html",
+    "postriziny_007.html",
+    "postriziny_008.html",
+    "postriziny_009.html",
+    "postriziny_010.html",
+    "postriziny_011.html",
+    "postriziny_012.html",
+    "postriziny_013.html",
+    "postriziny_014.html",
+    "postriziny_015.html",
+    "postriziny_016.html",
+    "postriziny_017.html",
+    "postriziny_019.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 10:31:48 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638441108800
+    "date": "Thu May 12 2022 10:35:11 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351711787
   },
   "documents": [
     {
-      "title": "Postřižiny",
-      "file": "postriziny_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +45,17 @@
       "order": 0,
       "prev": null,
       "next": "postriziny_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Postřižiny • Postřižiny",
+      "title": "Postřižiny",
       "file": "postriziny_003.html",
       "words": 1,
       "chars": 10,
       "ideas": 1,
       "role": "chapter",
       "order": 1,
-      "prev": "postriziny_002.html",
+      "prev": "promo.html",
       "next": "postriziny_004.html",
       "toc": [
         {
@@ -451,11 +464,11 @@
       ]
     },
     {
-      "title": "Tiráž • Postřižiny",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 44,
-      "chars": 303,
-      "ideas": 12,
+      "words": 35,
+      "chars": 218,
+      "ideas": 9,
       "role": "colophon",
       "order": null,
       "prev": "postriziny_019.html",
@@ -473,9 +486,9 @@
   ],
   "totals": {
     "all": {
-      "words": 29359,
-      "chars": 170346,
-      "ideas": 314
+      "words": 29350,
+      "chars": 170261,
+      "ideas": 311
     },
     "chapters": {
       "words": 29310,
