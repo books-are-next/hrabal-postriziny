@@ -47,7 +47,7 @@
         "xhtml": "postriziny_002.xhtml",
         "title": "",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": []
@@ -390,4 +390,3 @@
     "github": null
   }
 }
-
