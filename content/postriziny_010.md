@@ -1,6 +1,7 @@
 ---
 title: ''
 subtitle: ''
+contentType: prose
 ---
 
 ## 5

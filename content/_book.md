@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Postřižiny
@@ -13,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - postriziny_002.html
+  - promo.html
   - postriziny_003.html
   - postriziny_004.html
   - postriziny_005.html
