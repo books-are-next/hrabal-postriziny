@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 ## 8
 
 Strýc Pepin pracoval v pivovaře už tři týdny; vzali jej bednáři a od té doby bylo v pivovaře veselo. Když jsem mohla, vzala jsem kbelíky a šla jsem přes pivovarský dvůr pro mláto, pan podstarší se na mne zadíval zkoumavě, zdali má přinést tuplák piva, přikývla jsem, a zatímco jsem nabírala z vozu mláto, bednáři drželi dopolední svačinu, strýc Pepin ležel na zádech a na prsou měl prázdný soudek štěněte a bednářští se mohli potrhat smíchy, kuckali drobečky z mazaných chlebů, když strýc Pepin zpíval: „Do re mi fa sol la si do!“
@@ -71,3 +73,5 @@ Bednářský pomocník křičel: „Pane Josef, zarazte tu smůlu!“
 A strýc Pepin šlapal, ale pořád vedle, až nyní šlápl na nožní páku, a teď jsem to teprve viděla, jak do všech stran z jehly tryskající drobounké krůpěje horké smoly zvadly a všechny ty tenounké jantarové větvičky, po kterých se rozstřikovaly ty kapínky drobné jako jáhly, jak zlatá rýže, jak protivný hmyz, všechny ty proutky naráz klesly do prachu pivovarského dvora a bednáři si odlípávali z tváří a hřbetů rukou a krků zasychající drobty smoly a zlostně se dívali na strýce Pepina, který stál u těch obrovských kamen, ze kterých pořád chrčel a chroptil a ropotal zahnutým komínkem tlustý a krátký oheň. Strýc Pepin štrikoval popálenými prstíky, díval se do země.
 
 Bednářský mistr řekl: „Tak hoši, a do práce, ať pan Josef může jít brzy za holkama.“
+
+</section>

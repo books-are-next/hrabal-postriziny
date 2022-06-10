@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 ## 9
 
 Ta móda začala v hotelu Na Knížecí. Vojáci přinesli nějaké přístroje, ředitelé škol shromáždili už v šest hodin ráno školní mládež a přiřadily se všechny korporace, a tak jak postupoval čas, do velikého sálu vcházela fronta zvědavců, vojáci každému občanovi dali na ucho takové sluchátko jako u telefonu a v tom sluchátku se ozvalo škručení a pak se ozvala dechová hudba, která hrála pořád Kolíne, Kolíne, ale ta hudba nebyla ani trochu krásná, jako by ji hráli na dávno obehrané gramofonové desce, avšak ta hudba se hrála v Praze a vzduchem, bez drátu, se navlékala jak nit do ouška sluchátka až v našem městečku. A každý, kdo to uslyšel, vycházel zadním vchodem hotelu a byl naprosto oslněn tím slyšením, tím, že není drát, který by přiváděl tu Kmochovu kolínskou kapelu, a každý tak kráčel podle fronty občanů, fronty, která se táhla přes celé náměstí až na hlavní třídu, až dolů k pekařství pana Svobody, a kdo ještě neslyšel to rádio, tak když viděl, s jakým blaženým a udiveným výrazem vycházejí ti, kterým už byl dopřán ten revoluční vynález, všichni se těšili čím dál víc, jak se blížili v průvodu, který vcházel do dveří hotelu Na Knížecí.
@@ -95,3 +97,5 @@ Strýc Pepin mne vzal za ruce a džezová hudba začala hrát tak rychle, jak F
 A já jsem s výkřikem padla a už jsem se nepostavila.
 
 Tu noc se Mucek pominul. Domovník ho musel už zvečera uvázat na řetěz do kůlny a tam Mucek nedovedl srovnat souvislosti mezi kremrolí a tou bolestí v ocásku a už se nechtěl stát krasavečkem podle poslední módy, a tak začal strašlivě výt a pěna se mu objevila u tlamy, pěna šílenství smíchaná s pěnou kremrolí, a Francin o půlnoci nabíjel brovnink a pak vyšel na dvůr a za chvilku jsem slyšela střelbu, jednu ránu za druhou, dobelhala jsem se k oknu a viděla jsem ve světle baterky Mucka, jak napíná řetěz, jak stojí na zadních a prosí packama, že už souhlasí s tím zkráceným ocáskem, že se vším je smířen, jen ať po něm jeho panáček nestřílí, a Francin vstřílel celý zásobník a Mucek ještě nepadl, naopak, byl dojemnější než kdy jindy, pořád stál na zadních a hrabal předníma prackama a já jsem to všechno považovala za smrtelný hřích, který jsem spáchala na Muckovi, a dobelhala jsem se na otoman a rozplakala jsem se a zacpávala si před střelbou uši jako před výčitkou… A střelba utichla a Mucek už asi byl mrtvý, avšak jistě do poslední chvíle vrtěl neexistujícím ocáskem, protože si asi myslel, že ho to střílí někdo jiný, protože jako zvíře jistě nemohl a nedovedl pochopit, jak bych tu bolest mu mohla udělat já a jeho panáček, Francin, který když se vrátil s brovninkem, tak jak byl oblečený, svalil se do postele a zdálo se mi, že taky pláče.
+
+</section>
