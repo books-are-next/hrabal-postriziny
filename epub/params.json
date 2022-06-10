@@ -29,7 +29,9 @@
       "em": "MLP-venovani \nchar-style-override-1 ",
       "strong": "",
       "remove": "",
-      "ignore": ""
+      "ignore": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*"
     },
     "structure": [
       {
