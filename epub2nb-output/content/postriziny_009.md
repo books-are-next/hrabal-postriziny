@@ -4,6 +4,8 @@ subtitle: ''
 contentType: prose
 ---
 
+<section>
+
 ## 4
 
 Na víku krabice silice svalů bylo napsáno: I vy budete vlastnit tak krásné tělo, mít mohutné svaly a strašlivou sílu!
@@ -161,3 +163,5 @@ Strýc Pepin vzal víko kelímku, dal je Francinovi před oči a řekl pyšně:
 „To vyrábí středisko obuvnického světa ve Vídni, firma Salamander!“
 
 A strýc si přidržel na nose cvikr beze skel.
+
+</section>
