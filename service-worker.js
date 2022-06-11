@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-b1299cc';
+const CACHE = 'cache-8f9a987';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./postriziny_003.html","./postriziny_004.html","./postriziny_005.html","./postriziny_006.html","./postriziny_008.html","./postriziny_007.html","./postriziny_009.html","./postriziny_012.html","./postriziny_011.html","./postriziny_010.html","./postriziny_013.html","./postriziny_014.html","./postriziny_015.html","./postriziny_016.html","./postriziny_017.html","./postriziny_019.html","./promo.html","./fonts/Literata-var.woff2","./fonts/Literata-Italic-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/kocka_fmt.png","./resources/obalka_postriziny_fmt.png","./resources/upoutavka_eknihy_fmt.png","./style/style.min.css","./template-images/circles.png","./scripts/bundle.js"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./postriziny_003.html","./postriziny_004.html","./postriziny_005.html","./postriziny_006.html","./postriziny_007.html","./postriziny_008.html","./postriziny_009.html","./postriziny_010.html","./postriziny_011.html","./postriziny_012.html","./postriziny_013.html","./postriziny_014.html","./postriziny_015.html","./postriziny_016.html","./postriziny_017.html","./postriziny_019.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/kocka_fmt.png","./resources/obalka_postriziny_fmt.png","./resources/upoutavka_eknihy_fmt.png","./style/style.min.css","./template-images/circles.png","./scripts/bundle.js"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
