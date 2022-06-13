@@ -33,30 +33,33 @@ readingOrder:
   - postriziny_019.html
   - colophon.html
 tocBase:
-  - link: postriziny_006.html
-    title: 1. kapitola
-  - link: postriziny_007.html
-    title: 2. kapitola
-  - link: postriziny_008.html
-    title: '3'
-  - link: postriziny_009.html
-    title: 4. kapitola
-  - link: postriziny_010.html
-    title: 5. kapitola
-  - link: postriziny_011.html
-    title: 6. kapitola
-  - link: postriziny_012.html
-    title: 7. kapitola
-  - link: postriziny_013.html
-    title: 8. kapitola
-  - link: postriziny_014.html
-    title: 9. kapitola
-  - link: postriziny_015.html
-    title: 10. kapitola
-  - link: postriziny_016.html
-    title: 11. kapitola
-  - link: postriziny_017.html
-    title: 12. kapitola
+  - id: section-1
+    children:
+      - link: postriziny_006.html
+        title: 1. kapitola
+      - link: postriziny_007.html
+        title: 2. kapitola
+      - link: postriziny_008.html
+        title: '3'
+      - link: postriziny_009.html
+        title: 4. kapitola
+      - link: postriziny_010.html
+        title: 5. kapitola
+      - link: postriziny_011.html
+        title: 6. kapitola
+      - link: postriziny_012.html
+        title: 7. kapitola
+      - link: postriziny_013.html
+        title: 8. kapitola
+      - link: postriziny_014.html
+        title: 9. kapitola
+      - link: postriziny_015.html
+        title: 10. kapitola
+      - link: postriziny_016.html
+        title: 11. kapitola
+      - link: postriziny_017.html
+        title: 12. kapitola
+    isSection: true
 static:
   - style
   - scripts
