@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-postriziny-05f47e0",
-  "revision": "05f47e0",
+  "identifier": "hrabal-postriziny-7ea3548",
+  "revision": "7ea3548",
   "readingOrder": [
     "promo.html",
     "postriziny_003.html",
@@ -31,8 +31,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:50:53 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272253268
+    "date": "Thu Jun 16 2022 07:30:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364614767
   },
   "documents": [
     {
