@@ -13,6 +13,7 @@ meta:
   languageCode: cs
   publisherShort: mkp
   edition: beletrie
+  contentType: prose
 readingOrder:
   - promo.html
   - postriziny_003.html
