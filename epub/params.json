@@ -210,7 +210,7 @@
         "xhtml": "postriziny_018.xhtml",
         "title": "Bohumil Hrabal Postřižiny",
         "id": 17,
-        "role": "colophon",
+        "role": "about",
         "numberedChildren": false,
         "inToc": true,
         "children": []
